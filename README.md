@@ -16,7 +16,7 @@ Desenvolvedor Web Frontend
 
 ### Github Stats:
 
-<div style="display:flex; flex-wrap:wrap; gap: 0px 5px;">
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap: 0px 5px;">
 
 ![Rian Custódio GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian1432&show_icons=true&theme=tokyonight )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian1432&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
