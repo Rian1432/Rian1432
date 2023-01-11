@@ -14,14 +14,11 @@ Desenvolvedor Web Frontend
 <div>
 
 
-<hr style="border-width: 1px"/>
-
 ### Github Stats:
 
-<div style="display:flex; flex-wrap:wrap; gap: 0px 10px;">
+<div style="display:flex; flex-wrap:wrap; gap: 0px 5px;">
 
 ![Rian Custódio GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian1432&show_icons=true&theme=tokyonight )
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian1432&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
