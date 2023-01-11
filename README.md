@@ -1,8 +1,8 @@
-### Olá, meu nome é Rian Custódio 👋
+## Olá, meu nome é Rian Custódio 👋
 
 Desenvolvedor Web Frontend
 
-#### Linguagens e frameworks:
+### Linguagens e frameworks:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -12,7 +12,7 @@ Desenvolvedor Web Frontend
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
 <div>
 
-#### Github Stats:
+### Github Stats:
 
 ![Rian Custódio GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian1432&show_icons=true&theme=tokyonight )
 
