@@ -13,20 +13,6 @@ Desenvolvedor Web Frontend
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
 <div>
 
-### Github Stats:
-
-<div style="display:flex; align-items: center; gap: 0px 5px;">
-
-<div>
-
-![Rian Custódio GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian1432&show_icons=true&theme=tokyonight )
-</div>
-
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian1432&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 </div>
 
 ### Linkedin:
